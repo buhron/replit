@@ -1,0 +1,4 @@
+[dependencies]
+name="bash"
+language="sh"
+format=language
