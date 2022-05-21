@@ -1,2 +1,2 @@
-{command}: command not installed, But was located via Nix. Do you want to install this?
+{command}: command not installed, But was located via Nix. Do you want to install this? [y/N]
 Add '{command}' to replit.nix if you want to install '{command}' in this repl.
