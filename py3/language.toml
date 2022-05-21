@@ -1,3 +1,4 @@
 [dependencies]
+packages = ["python3", "packager", "pypi-packager-plugin"]
 name ="python3"
 language = "pypi"
