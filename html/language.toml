@@ -1,0 +1,4 @@
+[dependencies]
+packages = ["node", "packager"]
+name="html, css, js"
+format="html"
