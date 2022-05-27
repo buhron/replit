@@ -1,4 +1,4 @@
 [dependencies]
 name="bash"
 language="sh"
-format=language
+format=var(language)
