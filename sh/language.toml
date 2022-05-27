@@ -2,3 +2,4 @@
 name="bash"
 language="sh"
 format=var(language)
+type=bash
